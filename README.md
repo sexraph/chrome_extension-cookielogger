@@ -1,4 +1,4 @@
-# chrome_extension-cookielogger
+# Chrome extension cookie-logger
 **Roblox cookie logger using a chrome extension**
 
 
@@ -16,7 +16,6 @@
 > 3. Upload the extension directory as a chrome extension and get victim to add your extension to chrome
 > 4. As soon as they add the extention you will get a message containing victim info to your webhook
 ## Examples
-![alt text](examples/cookieFound.png)
+yeen gon do em later
 
-![alt text](examples/cookieNotFound.png)
 ## Notes
